@@ -9,7 +9,7 @@
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
