@@ -1,6 +1,6 @@
 
-<div align="center" width="300">
-	<img src="https://github.com/AbdrrahimDahmani/AbdrrahimDahmani/blob/main/redmeGif.gif" alt="Hello. I'm Abderrahim. I Love Codding. Thanks for reading.">
+<div align="center">
+	<img src="https://github.com/AbdrrahimDahmani/AbdrrahimDahmani/blob/main/redmeGif.gif" alt="Hello. I'm Abderrahim. I Love Codding. Thanks for reading." width="300">
 </div>
 <br/>
 <!--🤔INTERESTTITLE-->
