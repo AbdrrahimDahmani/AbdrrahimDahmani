@@ -21,7 +21,7 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
  <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdrrahimdahmani&show_icons=true&theme=vue-dark" 	alt="abdrrahimdahmani-streak-stats" />
- <img align="center" style="margin-top:15px;" src="https://github-readme-streak-stats.herokuapp.com/?user=abdrrahimdahmani&theme=vue-dark" alt="abdrrahimdahmani-streak-stats" />
+ <img align="center" style="margin-top:15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrrahimdahmani&layout=compact&theme=vue-dark&langs_count=9" alt="abdrrahimdahmani-streak-stats" />
  </p>
 <p align="center">  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=abdrrahimdahmani&theme=discord&no-frame=true&row=1&&margin-w=20" alt="abdrrahimdahmani-stats" />
