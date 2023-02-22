@@ -19,5 +19,14 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+ <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdrrahimdahmani&show_icons=true&theme=vue-dark" 	alt="abdrrahimdahmani-streak-stats" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdrrahimdahmani&theme=vue-dark" alt="abdrrahimdahmani-streak-stats" />
+ </p>
+<p align="center">  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=abdrrahimdahmani&theme=discord&no-frame=true&row=1&&margin-w=20" alt="abdrrahimdahmani-stats" />
+</p>
 
-![Snake animation](https://github.com/AbdrrahimDahmani/AbdrrahimDahmani/blob/output/github-contribution-grid-snake.svg)
+<p align="center">  
+<img align="center" src="https://github.com/AbdrrahimDahmani/AbdrrahimDahmani/blob/output/github-contribution-grid-snake.svg" alt="snae animation" />
+</p>
