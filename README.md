@@ -29,6 +29,36 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AbdrrahimDahmani&logo=GitHub&label=github%20visits&color=brightgreen&logoColor=white&style=plastic)](https://github.com/AbdrrahimDahmani">  
 </div>
-<p align="center">  
-<img align="center" src="https://github.com/AbdrrahimDahmani/AbdrrahimDahmani/blob/output/github-contribution-grid-snake.svg" alt="snae animation" />
+
+<h1>
+  Connect With Me
+  <img src="GIF/Handshake.gif" height="25px">
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/abderrahim-dahmani/" target="_blank">
+    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin"/></code>
+  </a>
+  <a href="https://stackoverflow.com/users/20217716/abderrahim-dahmani" target="_blank">
+    <code><img  height="60" width="60" src="https://skillicons.dev/icons?i=stackoverflow"/></code>
+  </a>
+  <a href="https://www.instagram.com/abdrrahim_dhm/" target="_blank">
+    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
+  </a>
+  <a href="mailto:ab.dahmani02@outlook.fr">
+    <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Pranav's Mail" height="60" width="60"></code>
+  </a>     
 </p>
+<br/>
+<br/>
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+![footer](./footer.webp)
