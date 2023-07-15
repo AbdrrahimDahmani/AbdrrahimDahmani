@@ -26,7 +26,9 @@
 <p align="center">  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=abdrrahimdahmani&theme=discord&no-frame=true&row=1&&margin-w=20" alt="abdrrahimdahmani-stats" />
 </p>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AbdrrahimDahmani&logo=GitHub&label=github%20visits&color=brightgreen&logoColor=white&style=plastic)](https://github.com/AbdrrahimDahmani">  
+</div>
 <p align="center">  
 <img align="center" src="https://github.com/AbdrrahimDahmani/AbdrrahimDahmani/blob/output/github-contribution-grid-snake.svg" alt="snae animation" />
 </p>
