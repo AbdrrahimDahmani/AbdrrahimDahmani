@@ -1,8 +1,8 @@
 
-<div align="center">
+<!--<div align="center">
 	<img src="https://github.com/AbdrrahimDahmani/AbdrrahimDahmani/blob/main/redmeGif.gif" alt="Hello. I'm Abderrahim. I Love Codding. Thanks for reading." width="600" height="550">
 </div>
-<br/>
+<br/>-->
 <!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
